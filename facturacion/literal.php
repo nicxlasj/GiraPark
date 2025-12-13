@@ -159,5 +159,5 @@ function subfijo($xx)
     //
     return $xsub;
 }
-// END FUNCTION
+// END FUNCTIO
 ?>
